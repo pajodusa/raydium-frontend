@@ -1,0 +1,8 @@
+  },
+  MCAT: {
+    symbol: 'MCAT',
+    name: 'MoneyCat',
+    mintAddress: '2odRqrjkUKWcxkY9c7TJUgfAyMBVtctQkGvMvLha5TKk',
+    decimals: 6,
+    tags: ['raydium']
+  }
